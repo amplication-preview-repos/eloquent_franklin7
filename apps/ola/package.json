@@ -1,5 +1,5 @@
 {
-  "name": "@ola-1/server",
+  "name": "@ola/server",
   "private": true,
   "scripts": {
     "start": "nest start",
